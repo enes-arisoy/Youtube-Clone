@@ -27,8 +27,8 @@ A modern, responsive YouTube clone built with React, featuring a beautiful UI an
 
 ⭐ **Don't forget to star this repository if you found it helpful!** ⭐
 
-## 📦 Repo ()
+## 📦 Repo (https://bit.ly/457TIEY)
 
-### 📺 
+### 📺 Preview
 
 [](youtubeClone.gif)
