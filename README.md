@@ -31,4 +31,4 @@ A modern, responsive YouTube clone built with React, featuring a beautiful UI an
 
 ### 📺 Preview
 
-[](youtubeClone.gif)
+![Demo](youtubeClone.gif)
